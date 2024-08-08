@@ -1,4 +1,4 @@
-<h1 align="center">Всем привет, я Влад
+<h1 align="center">Всем приве!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>  
 
 #### Школа 21 от СБЕР [ NSK 24_04 ]
