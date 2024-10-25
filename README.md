@@ -19,9 +19,10 @@
 ![Windows](https://img.shields.io/badge/windows-000000?style=for-the-badge&logo=windows&logoColor=F0F0F0)
 
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
--->
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vp-174&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vp-174&theme=solarized_dark)
 ![vp-174 GitHub stats](https://github-readme-stats.vercel.app/api?username=vp-174&show_icons=true&theme=dracula)
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vp-174)](https://github.com/vp-174/github-readme-stats)
