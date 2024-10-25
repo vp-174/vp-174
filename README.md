@@ -23,4 +23,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vp-174&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vp-174&theme=solarized_dark)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dertefter&show_icons=true&locale=en" alt="dertefter" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vp-174&show_icons=true&locale=en" alt="vp-174" /></p>
